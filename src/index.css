@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+main{
+  min-height: 80vh;
+}
+.my-6{
+  margin-top: 13rem !important;
+  
+}
+
+:root{
+  --primary-white: #fff;
+  
+}
+.body{
+  font-family: 'Roboto', sans-serif !important;
+}
